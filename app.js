@@ -24,3 +24,6 @@ const search = () =>{
 document.getElementById('prd-1').addEventListener('click', function () {
                 window.location.href = 'product.html';
         });
+        document.getElementById('prd-2').addEventListener('click', function () {
+            window.location.href = 'ledlight.html';
+    });

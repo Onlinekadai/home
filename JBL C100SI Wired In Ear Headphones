@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+
+    <section class="container">
+        &nbsp;
+        <img class ="product-main-image , center" src="https://m.media-amazon.com/images/I/71IxU1VSxWL._SX679_.jpg" alt="">
+        &nbsp;
+        &nbsp;
+        <h3 style="text-align: center; padding-left: 4px; padding-right: 4px;">Belanto 4 IN1 Keychain Rechargeable Led Flashlights with Lighter, Whistles, Screwdriver, Bottle Opener, Magnet Base 800 Lumens COB Light Portable Emergency Light for Outdoor Hiking Campaign</h3>
+        <!-- <h5 style="text-align: center;"><del>₹ 34,990</del> <b>RS. 24 990</b> </h5> -->
+        &nbsp;
+        <p style="text-align: center; padding-top: 10px;"><span style="font-size: 12px;" > <del> M.R.P.2499</del></span>&nbsp; <span style="font-size: 15px;"><b>₹587</b>  </span></p>
+        <div style="text-align: center; padding-top: 8px;">
+            &nbsp;
+
+            <button 
+                class="button-28"
+                onclick="window.location.href = 'https://amzn.to/4bKy0bo';"
+            >
+                Buy Now
+            </button>
+        </div>
+
+        &nbsp;
+        &nbsp;
+        &nbsp;
+
+
+        <img class="center , product-main-image" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/fdff6e26-dde8-4e75-9567-fc29811825fc.__CR0,0,970,600_PT0_SX970_V1___.jpg" alt="">  
+        &nbsp;
+        <img class="center , product-main-image" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/58409b8b-0fbf-4c79-b275-b5657338456a.__CR0,0,970,600_PT0_SX970_V1___.jpg" alt="">  
+        &nbsp;
+        <img class="center , product-main-image" src="https://m.media-amazon.com/images/S/aplus-media-library-service-media/3147a82a-3291-4afc-903b-d63c26c63ae1.__CR0,0,970,600_PT0_SX970_V1___.jpg" alt="">  
+
+
+    </section>
+
+
+    <script src="app.js"></script>
+</body>
+</html>
